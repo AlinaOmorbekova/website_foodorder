@@ -489,6 +489,16 @@ img {
   margin-bottom: 20px;
   text-align: center;
 }
+.btn-primary{
+  background-color: #ff6b81;
+  color: white;
+  cursor: pointer;
+}
+.btn-primary:hover{
+  color: white;
+  background-color: #ff4757;
+}
+
 
 .mu-title .mu-subtitle {
   font-size: 50px;
